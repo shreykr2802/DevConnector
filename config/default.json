@@ -1,4 +1,6 @@
 {
     "mongoURI" : "mongodb://shrey123:shrey123@devconnector-shard-00-00-o7yp1.mongodb.net:27017,devconnector-shard-00-01-o7yp1.mongodb.net:27017,devconnector-shard-00-02-o7yp1.mongodb.net:27017/test?ssl=true&replicaSet=DevConnector-shard-0&authSource=admin&retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubclientid": "e44fe8f9d254d58ed6bb",
+    "githubsecret": "d6791f2d02e2f61f5ef9f8ee2611e05141941992"
 }
