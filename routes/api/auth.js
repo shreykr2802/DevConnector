@@ -8,7 +8,7 @@ const bcrypt = require('bcryptjs');
 
 const auth = require('../../middleware/auth');
 
-// @route   GET     api/Auth
+// @route   GET     api/auth
 // @desc    Auth User Data
 // @access  Public
 
